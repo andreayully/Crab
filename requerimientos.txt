@@ -1,0 +1,3 @@
+-U crab
+numpy scipy matplotlib ipython jupyter pandas sympy nose
+-U scikits.learn
